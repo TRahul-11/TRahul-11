@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm [Your Name] </h1>  
+<h1 align="center"> Hi there 👋 I'm Rahul </h1>  
 <h3 align="center"> Java Full-Stack Developer | Tech Enthusiast </h3>  
 
 ## 🚀 About Me  
@@ -23,7 +23,7 @@
 ### **🛠 Backend & Databases:**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" title="Spring Boot" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/hibernate.png" title="Hibernate" width="50" height="50"/> &nbsp;&nbsp;
@@ -32,7 +32,7 @@
 ### **🛠 Tools & IDEs:**  
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/glyph-neue/64/github.png" title="GitHub" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="50" height="50"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="50" height="50"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/> &nbsp;&nbsp;
