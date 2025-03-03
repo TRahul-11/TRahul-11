@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 💻 Full-Stack Java Developer with 2 years of experience in building scalable web applications.  
 🔹 Passionate about **backend development, frontend technologies, and system design**.  
-📚 Always learning **Cloud, Microservices, and DevOps**.  
+📚 Currently learning **Data Structures & Algorithms (DSA), AWS, Microservices, and AI**.   
 
 ---
 
