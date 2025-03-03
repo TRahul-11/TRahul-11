@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahul-t-256767331/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul--t/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
