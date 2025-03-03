@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm [Your Name] </h1>  
+<h1 align="center"> Hi there 👋 I'm Rahul </h1>  
 <h3 align="center"> Java Full-Stack Developer | Tech Enthusiast </h3>  
 
 ## 🚀 About Me  
@@ -35,19 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark" width="48%" />
-</p>  
-
----
-
-## 🚀 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahulus6pqz?theme=dark&font=Raleway&ext=heatmap)  
-
----
-
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://twitter.com/yourusername" target="_blank">
@@ -59,4 +46,17 @@
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge" />
   </a>
+</p>  
+
+---
+
+## 🚀 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahulus6pqz?theme=dark&font=Raleway&ext=heatmap)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark" width="48%" />
 </p>  
