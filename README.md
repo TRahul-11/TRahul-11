@@ -18,6 +18,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge)](https://yourportfolio.com)  
 
+
+## 🚀 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahulus6pqz?theme=dark&font=Raleway&ext=heatmap)
+
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
 
