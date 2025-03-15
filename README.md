@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/rahul--t/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://yourportfolio.com](https://splendorous-marshmallow-9946ff.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?&style=for-the-badge" />
   </a>
 </p>  
